@@ -18,7 +18,7 @@ Online Shopping App built on **React Native** and **Firebase Realtime Database**
 
 1.	**Home**
 Welcome screen of the app which shows the app logo and app name with animation. It also consists of drawer menu and sign in with google button. First you sign in with Gmail then proceeds to the next activity.
-<img src={https://user-images.githubusercontent.com/64039135/135726413-edfc4a33-1f92-43ef-b8c1-1a7b1c533a67.jpeg} width="50px" height="50px" />
+<img src="https://user-images.githubusercontent.com/64039135/135726413-edfc4a33-1f92-43ef-b8c1-1a7b1c533a67.jpeg" width="150px" height="150px" />
 ![WhatsApp Image 2021-10-02 at 9 54 46 PM](https://user-images.githubusercontent.com/64039135/135726413-edfc4a33-1f92-43ef-b8c1-1a7b1c533a67.jpeg)
 
 After sign in screen look like this
