@@ -22,7 +22,8 @@ Welcome screen of the app which shows the app logo and app name with animation. 
 
 
 After sign in screen look like this
-<img src="https://user-images.githubusercontent.com/64039135/135726389-7d7eadfa-5fce-4371-ab3e-f576489cb8b1.jpeg" width="250px" height="400px" /> <br/>
+
+<img src="https://user-images.githubusercontent.com/64039135/135726389-7d7eadfa-5fce-4371-ab3e-f576489cb8b1.jpeg" width="250px" height="400px" /> 
 <img src="https://user-images.githubusercontent.com/64039135/135726346-819d27eb-2636-4bbe-9fd6-17af571734ab.jpeg" width="250px" height="400px" />
 
 
